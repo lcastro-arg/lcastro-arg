@@ -9,7 +9,7 @@ NOW
 BIO
 
 - :office: I’m currently working at Rioplatense, Argentina
-- :book: I'm currently learning Web Development
+- :book: I'm currently learning Web Development (Django + React)
 - ⚙️ I mainly use: **.py .js .css .html**
 <!--
 **lcastro-arg/lcastro-arg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
